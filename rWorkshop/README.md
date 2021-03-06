@@ -1,1 +1,0 @@
-# smbc-nzp.github.io
