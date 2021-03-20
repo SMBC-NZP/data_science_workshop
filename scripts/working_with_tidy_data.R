@@ -1,4 +1,3 @@
-
 # Set up ------------------------------------------------------------------
 
 # If lubridate is not installed, do so now (uncomment line):
@@ -14,7 +13,7 @@ library(lubridate)
 
 list.files()
 
-# If you don't see the value "data" in your list:
+# If you don't see the value "data" in your list (uncomment line):
 
 # dir.create("data")
 
