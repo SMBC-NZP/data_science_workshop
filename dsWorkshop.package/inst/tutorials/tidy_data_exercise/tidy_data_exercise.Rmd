@@ -129,6 +129,35 @@ inat_monarch <-
 <link rel="stylesheet" type="text/css" href="../css/styles.css">
 <!-- link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" -->
 <style>
+
+body {
+  font-size: 18px;
+}
+
+.topic {
+  font-size: 20px !important;
+}
+
+h1 {
+  font-size: 2.25em;
+}
+
+h2 {
+  font-size: 2em;
+}
+
+h3 {
+  font-size: 1.75em;
+}
+
+h4 {
+  font-size: 1.5em;
+}
+
+h5 {
+  font-size: 1.25em;
+}
+
 pre {
   margin-top: 2em;
   margin-bottom: 2em;
